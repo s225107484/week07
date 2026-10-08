@@ -1,7 +1,7 @@
 name: CI Pipeline
 
 on:
-  # Manual trigger for the workflow
+  # SIT722 Task 7.1P CI validation
   workflow_dispatch:
 
   push:
